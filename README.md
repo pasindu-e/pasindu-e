@@ -16,7 +16,7 @@ I'm a Software Engineer passionate about building **innovative, scalable, and in
 
 🌟 Always learning, building, and exploring what's next in technology.
 
-* 👨‍💻 Projects: https://pasinduu.me/
+* 👨‍💻 Projects: https://www.nvylo.com/
 * 📫 Email: **[pasindue@outlook.com](mailto:pasindue@outlook.com)**
 
 ### Connect with Me
