@@ -10,7 +10,7 @@ I'm a Software Engineer passionate about building **innovative, scalable, and in
 
 💻 **Full-Stack Development** — Working with .NET, React, Angular, Python, Java, TypeScript, and modern backend technologies.
 
-☁️ **Cloud & DevOps** — Hands-on experience with Azure, AWS, Docker, Kubernetes, and CI/CD.
+☁️ **Cloud & DevOps** — Hands-on experience with Azure, AWS, terraform, Docker, Kubernetes, and CI/CD.
 
 🚀 Interested in **emerging technologies, open source, and turning innovative ideas into real-world products**.
 
